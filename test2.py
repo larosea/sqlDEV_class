@@ -1,1 +1,1 @@
-print("finally i got it")
+print("finally")
